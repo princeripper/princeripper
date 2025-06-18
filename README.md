@@ -16,6 +16,7 @@
 <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
 <img align="center" height="30em" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="right" height="120em" src="https://github.com/user-attachments/assets/17c8e754-295d-4ec7-8f19-5f7c6b15b99f" />
 </div>
 
 ##
@@ -26,7 +27,6 @@
 <a href="https://open.spotify.com/user/317abd7kto3ymbvuje65kvsptriu?si=daf9134e79704601"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"</a>
 <a href="https://instagram.com/leandrosskt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://discord.com/users/princeripper"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<img align="right" height="120em" src="https://github.com/user-attachments/assets/17c8e754-295d-4ec7-8f19-5f7c6b15b99f" />
 </div>
 
 #
